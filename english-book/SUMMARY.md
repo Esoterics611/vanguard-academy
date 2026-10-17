@@ -1,0 +1,133 @@
+# Table of Contents
+
+## Getting Started
+
+* [Welcome](README.md)
+* [Glossary](GLOSSARY.md)
+
+## Part I: Foundations of Decentralized Investment Banking
+
+* [Part I Overview](part-1-foundations/README.md)
+* [Chapter 1: The Emergence of DAO Investment Banking](part-1-foundations/chapter-1-emergence/README.md)
+  * [1.2 The DAO as an Economic Entity](part-1-foundations/chapter-1-emergence/1.2-dao-economic-entity.md)
+  * [Case Study: MakerDAO](part-1-foundations/chapter-1-emergence/case-study-makerdao.md)
+  * [1.3 The Investment Banking Function](part-1-foundations/chapter-1-emergence/1.3-ib-function.md)
+  * [1.4 Professional Standards & Ethics](part-1-foundations/chapter-1-emergence/1.4-professional-standards.md)
+  * [1.5 Market Opportunity & Career Path](part-1-foundations/chapter-1-emergence/1.5-market-opportunity.md)
+  * [Review Questions](part-1-foundations/chapter-1-emergence/review-questions.md)
+* [Chapter 2: Financial Analysis Frameworks](part-1-foundations/chapter-2-financial-analysis/README.md)
+  * [2.1 DAO Financial Statements](part-1-foundations/chapter-2-financial-analysis/2.1-dao-financial-statements.md)
+  * [Case Study: Lido Income Statement](part-1-foundations/chapter-2-financial-analysis/case-study-lido.md)
+  * [Case Study: Arbitrum Balance Sheet](part-1-foundations/chapter-2-financial-analysis/case-study-arbitrum.md)
+  * [Case Study: Uniswap Cash Flows](part-1-foundations/chapter-2-financial-analysis/case-study-uniswap.md)
+  * [2.2 Key Performance Indicators](part-1-foundations/chapter-2-financial-analysis/2.2-key-performance-indicators.md)
+  * [2.3 Data Sources & Analytical Tools](part-1-foundations/chapter-2-financial-analysis/2.3-data-sources-tools.md)
+  * [2.4 The Protocol Deep Dive](part-1-foundations/chapter-2-financial-analysis/2.4-protocol-deep-dive.md)
+  * [Practice Exercise](part-1-foundations/chapter-2-financial-analysis/practice-exercise.md)
+  * [Review Questions](part-1-foundations/chapter-2-financial-analysis/review-questions.md)
+
+## Part II: Valuation of Crypto Assets and Protocols
+
+* [Part II Overview](part-2-valuation/README.md)
+* [Chapter 3: Foundations of Protocol Valuation](part-2-valuation/chapter-3-foundations/README.md)
+  * [3.1 The Valuation Challenge](part-2-valuation/chapter-3-foundations/3.1-valuation-challenge.md)
+  * [3.2 The Cost of Capital in DeFi](part-2-valuation/chapter-3-foundations/3.2-cost-of-capital.md)
+* [Chapter 4: DCF Analysis for Protocols](part-2-valuation/chapter-4-dcf/README.md)
+  * [4.1 The Protocol DCF Framework](part-2-valuation/chapter-4-dcf/4.1-protocol-dcf-framework.md)
+  * [4.2 Complete Aave DCF Case Study](part-2-valuation/chapter-4-dcf/4.2-aave-case-study.md)
+  * [4.3 Complex Token Mechanics](part-2-valuation/chapter-4-dcf/4.3-complex-token-mechanics.md)
+* [Chapter 5: Relative Valuation](part-2-valuation/chapter-5-relative-valuation/README.md)
+  * [5.1 Comparable Company Framework](part-2-valuation/chapter-5-relative-valuation/5.1-comparable-framework.md)
+  * [5.2 DEX Valuation Case Study](part-2-valuation/chapter-5-relative-valuation/5.2-dex-case-study.md)
+  * [5.3 Precedent Transactions](part-2-valuation/chapter-5-relative-valuation/5.3-precedent-transactions.md)
+* [Chapter 6: Advanced Valuation Frameworks](part-2-valuation/chapter-6-advanced/README.md)
+  * [6.1 Network Value Models](part-2-valuation/chapter-6-advanced/6.1-network-value-models.md)
+  * [6.2 Real Options Analysis](part-2-valuation/chapter-6-advanced/6.2-real-options.md)
+  * [6.3 Sum-of-the-Parts Valuation](part-2-valuation/chapter-6-advanced/6.3-sotp-valuation.md)
+  * [6.4 Triangulation & Football Field](part-2-valuation/chapter-6-advanced/6.4-triangulation.md)
+  * [6.5 Common Valuation Pitfalls](part-2-valuation/chapter-6-advanced/6.5-common-pitfalls.md)
+  * [Review Questions & Practice](part-2-valuation/chapter-6-advanced/review-questions.md)
+
+## Part III: Mergers and Acquisitions of DAOs
+
+* [Part III Overview](part-3-mergers-acquisitions/README.md)
+* [Chapter 7: The Landscape of DAO M&A](part-3-mergers-acquisitions/chapter-7-landscape/README.md)
+  * [7.1 Why DAOs Merge and Acquire](part-3-mergers-acquisitions/chapter-7-landscape/7.1-strategic-rationales.md)
+  * [7.2 The M&A Process for DAOs](part-3-mergers-acquisitions/chapter-7-landscape/7.2-ma-process.md)
+* [Chapter 8: Due Diligence for DAO Acquisitions](part-3-mergers-acquisitions/chapter-8-due-diligence/README.md)
+  * [8.1 Smart Contract & Technical DD](part-3-mergers-acquisitions/chapter-8-due-diligence/8.1-smart-contract-dd.md)
+  * [8.2 Tokenomic & Financial DD](part-3-mergers-acquisitions/chapter-8-due-diligence/8.2-tokenomic-financial-dd.md)
+  * [8.3 Governance, Legal & Team DD](part-3-mergers-acquisitions/chapter-8-due-diligence/8.3-governance-legal-team-dd.md)
+  * [8.4 Market, On-Chain & Community DD](part-3-mergers-acquisitions/chapter-8-due-diligence/8.4-market-onchain-community-dd.md)
+* [Chapter 9: Transaction Structuring](part-3-mergers-acquisitions/chapter-9-structuring/README.md)
+  * [9.1 Token Exchange & Deal Structures](part-3-mergers-acquisitions/chapter-9-structuring/9.1-token-exchange.md)
+  * [9.2 Governance Integration & Deal Protection](part-3-mergers-acquisitions/chapter-9-structuring/9.2-governance-deal-protection.md)
+  * [9.3 Fairness Opinions](part-3-mergers-acquisitions/chapter-9-structuring/9.3-fairness-opinions.md)
+* [Chapter 10: Post-Merger Integration](part-3-mergers-acquisitions/chapter-10-integration/README.md)
+  * [10.1 The 100-Day Integration Plan](part-3-mergers-acquisitions/chapter-10-integration/10.1-hundred-day-plan.md)
+  * [10.2 Technical & Community Integration](part-3-mergers-acquisitions/chapter-10-integration/10.2-technical-community-integration.md)
+  * [10.3 Fei/Rari Post-Mortem](part-3-mergers-acquisitions/chapter-10-integration/10.3-fei-rari-postmortem.md)
+  * [Review Questions & Practice](part-3-mergers-acquisitions/review-questions.md)
+
+## Part IV: Token Generation Events
+
+* [Part IV Overview](part-4-token-generation/README.md)
+* [Chapter 11: The TGE as Decentralized IPO](part-4-token-generation/chapter-11-tge-overview/README.md)
+  * [11.1 Understanding the TGE](part-4-token-generation/chapter-11-tge-overview/11.1-understanding-tge.md)
+  * [11.2 TGE Readiness Assessment](part-4-token-generation/chapter-11-tge-overview/11.2-tge-readiness.md)
+* [Chapter 12: Tokenomics Design](part-4-token-generation/chapter-12-tokenomics/README.md)
+  * [12.1 Token Supply and Allocation](part-4-token-generation/chapter-12-tokenomics/12.1-supply-allocation.md)
+  * [12.2 Value Accrual and Governance Design](part-4-token-generation/chapter-12-tokenomics/12.2-value-accrual-governance.md)
+  * [12.3 Tokenomics Modeling and Simulation](part-4-token-generation/chapter-12-tokenomics/12.3-modeling-simulation.md)
+* [Chapter 13: Distribution Strategy and Execution](part-4-token-generation/chapter-13-distribution/README.md)
+  * [13.1 Airdrop Design and Execution](part-4-token-generation/chapter-13-distribution/13.1-airdrop-design.md)
+  * [13.2 Liquidity Mining and Private Sales](part-4-token-generation/chapter-13-distribution/13.2-mining-private-sales.md)
+* [Chapter 14: Market Making, Listings, and Launch](part-4-token-generation/chapter-14-launch/README.md)
+  * [14.1 Market Making and DEX Liquidity](part-4-token-generation/chapter-14-launch/14.1-market-making.md)
+  * [14.2 Exchange Listings and Regulatory Considerations](part-4-token-generation/chapter-14-launch/14.2-listings-regulatory.md)
+  * [Review Questions & Practice](part-4-token-generation/review-questions.md)
+
+## Part V: Capital Raising for DAOs
+
+* [Part V Overview](part-5-capital-raising/README.md)
+* [Chapter 15: Treasury Management](part-5-capital-raising/chapter-15-treasury-management/README.md)
+  * [15.1 The DAO Treasury as Strategic Asset](part-5-capital-raising/chapter-15-treasury-management/15.1-treasury-strategic-asset.md)
+  * [15.2 Strategic Asset Allocation](part-5-capital-raising/chapter-15-treasury-management/15.2-strategic-asset-allocation.md)
+  * [Case Study: Lido OTC Diversification](part-5-capital-raising/chapter-15-treasury-management/case-study-lido-otc.md)
+  * [15.3 Risk Management Framework](part-5-capital-raising/chapter-15-treasury-management/15.3-risk-management.md)
+  * [15.4 Treasury Governance and Oversight](part-5-capital-raising/chapter-15-treasury-management/15.4-treasury-governance.md)
+* [Chapter 16: Capital Raising Strategies](part-5-capital-raising/chapter-16-capital-raising/README.md)
+  * [16.1 Capital Needs and Instruments](part-5-capital-raising/chapter-16-capital-raising/16.1-capital-needs-instruments.md)
+  * [16.2 Structuring Capital Raises](part-5-capital-raising/chapter-16-capital-raising/16.2-structuring-capital-raises.md)
+  * [16.3 Investor Relations](part-5-capital-raising/chapter-16-capital-raising/16.3-investor-relations.md)
+  * [16.4 Cap Table Design](part-5-capital-raising/chapter-16-capital-raising/16.4-cap-table-design.md)
+* [Chapter 17: Fundraising Execution](part-5-capital-raising/chapter-17-fundraising-execution/README.md)
+  * [17.1 The Capital Raising Process](part-5-capital-raising/chapter-17-fundraising-execution/17.1-capital-raising-process.md)
+  * [17.2 Capital Markets Advisory](part-5-capital-raising/chapter-17-fundraising-execution/17.2-capital-markets-advisory.md)
+  * [Review Questions & Practice](part-5-capital-raising/review-questions.md)
+
+## Part VI: Strategic Advisory
+
+* [Part VI Overview](part-6-strategic-advisory/README.md)
+* [Chapter 18: Competitive Analysis for Protocols](part-6-strategic-advisory/chapter-18-competitive-analysis/README.md)
+  * [18.1 The Strategic Advisory Mandate](part-6-strategic-advisory/chapter-18-competitive-analysis/18.1-strategic-advisory-mandate.md)
+  * [18.2 Porter's Five Forces for DeFi](part-6-strategic-advisory/chapter-18-competitive-analysis/18.2-porters-five-forces-defi.md)
+  * [18.3 Building the Competitive Landscape](part-6-strategic-advisory/chapter-18-competitive-analysis/18.3-competitive-landscape-map.md)
+  * [Case Study: Lending Sector Analysis](part-6-strategic-advisory/chapter-18-competitive-analysis/case-study-lending-sector.md)
+* [Chapter 19: Market Positioning and Growth Strategy](part-6-strategic-advisory/chapter-19-market-positioning/README.md)
+  * [19.1 Positioning Frameworks](part-6-strategic-advisory/chapter-19-market-positioning/19.1-positioning-frameworks.md)
+  * [19.2 Growth Strategy Frameworks](part-6-strategic-advisory/chapter-19-market-positioning/19.2-growth-strategy.md)
+  * [19.3 Business Development and Partnerships](part-6-strategic-advisory/chapter-19-market-positioning/19.3-business-development.md)
+* [Chapter 20: Go-to-Market and Advisory Delivery](part-6-strategic-advisory/chapter-20-gtm-advisory/README.md)
+  * [20.1 Go-to-Market Strategy](part-6-strategic-advisory/chapter-20-gtm-advisory/20.1-go-to-market-strategy.md)
+  * [20.2 Strategic Advisory Delivery](part-6-strategic-advisory/chapter-20-gtm-advisory/20.2-strategic-advisory-delivery.md)
+  * [Review Questions, Practice & Course Conclusion](part-6-strategic-advisory/review-questions.md)
+
+## Appendices
+
+* [Formula Reference](appendices/formula-reference.md)
+* [Tool Setup Guide](appendices/tool-setup-guide.md)
+* [Valuation Model Templates](appendices/valuation-templates.md)
+* [Key Data Sources](appendices/data-sources.md)
+* [Capstone Case Study: NexusDAO](appendices/capstone-nexusdao.md)
+* [Recommended Reading](appendices/recommended-reading.md)
